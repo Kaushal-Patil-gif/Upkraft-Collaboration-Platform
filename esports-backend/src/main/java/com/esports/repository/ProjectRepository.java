@@ -19,7 +19,7 @@ public interface ProjectRepository extends JpaRepository<Project, Long> {
     
     @Query("SELECT SUM(p.price) FROM Project p WHERE p.paymentStatus = :paymentStatus")
     Double sumPriceByPaymentStatus(@Param("paymentStatus") Project.PaymentStatus paymentStatus);
-    
+
     List<Project> findByCreatorAndPaymentStatusOrderByPaymentDateDesc(User creator, Project.PaymentStatus paymentStatus);
     List<Project> findByFreelancerAndPaymentStatusOrderByPaymentDateDesc(User freelancer, Project.PaymentStatus paymentStatus);
 }
