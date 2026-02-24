@@ -1,0 +1,6 @@
+@Upkart1_HostAddress = http://localhost:5048
+
+GET {{Upkart1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,780 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\security\\jwtauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\security\\jwtauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\utils\\validationutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\utils\\validationutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\security\\jwtutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\security\\jwtutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\controllers\\kyccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\controllers\\kyccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\controllers\\freelancercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\controllers\\freelancercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\repository\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\repository\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\entities\\projectfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\entities\\projectfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\controllers\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\controllers\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\configuration\\webconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\configuration\\webconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\configuration\\websocketconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\configuration\\websocketconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\helpers\\s3keyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\helpers\\s3keyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\repository\\projectfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\repository\\projectfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\repository\\milestonepaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\repository\\milestonepaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\repository\\iwallettransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\repository\\iwallettransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\repository\\iprojectfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\repository\\iprojectfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\repository\\imilestonepaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\repository\\imilestonepaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\services\\kycservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\services\\kycservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\dto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\dto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\dto\\adminuserresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\dto\\adminuserresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\dto\\adminstatsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\dto\\adminstatsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\configuration\\awsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\configuration\\awsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\configuration\\securityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\configuration\\securityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\configuration\\methodsecurityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\configuration\\methodsecurityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|c:\\users\\teckn\\onedrive\\desktop\\final\\upkart1\\upkart1\\configuration\\emailconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0167701-DA87-46E0-A14F-534203CC9D0C}|Upkart1\\Upkart1.csproj|solutionrelative:upkart1\\configuration\\emailconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Services\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Services\\DashboardService.cs",
+              "RelativeToolTip": "Upkart1\\Services\\DashboardService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T11:19:24.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Program.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Program.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Program.cs*",
+              "RelativeToolTip": "Upkart1\\Program.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:14:54.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Upkart1\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwDUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:38:22.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtAuthenticationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Security\\JwtAuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Security\\JwtAuthenticationMiddleware.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Security\\JwtAuthenticationMiddleware.cs",
+              "RelativeToolTip": "Upkart1\\Security\\JwtAuthenticationMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:17:07.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Services\\ProjectService.cs",
+              "RelativeToolTip": "Upkart1\\Services\\ProjectService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:42:08.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Services\\IProjectService.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Services\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Services\\IProjectService.cs",
+              "RelativeToolTip": "Upkart1\\Services\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:37:34.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Upkart1\\repository\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\ProjectRepository.cs",
+              "RelativeToolTip": "Upkart1\\repository\\ProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:47:00.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "Upkart1\\repository\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\IProjectRepository.cs",
+              "RelativeToolTip": "Upkart1\\repository\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:18:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidationUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Utils\\ValidationUtil.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Utils\\ValidationUtil.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Utils\\ValidationUtil.cs",
+              "RelativeToolTip": "Upkart1\\Utils\\ValidationUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:40:18.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Security\\JwtUtil.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Security\\JwtUtil.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Security\\JwtUtil.cs",
+              "RelativeToolTip": "Upkart1\\Security\\JwtUtil.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:16:32.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Upkart1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:35:49.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Services\\IUserService.cs",
+              "RelativeToolTip": "Upkart1\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:38:27.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KycController.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\KycController.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Controllers\\KycController.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\KycController.cs",
+              "RelativeToolTip": "Upkart1\\Controllers\\KycController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:36:44.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FreelancerController.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\FreelancerController.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Controllers\\FreelancerController.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\FreelancerController.cs",
+              "RelativeToolTip": "Upkart1\\Controllers\\FreelancerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:36:43.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Upkart1\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:36:29.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Upkart1\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:08:44.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "Upkart1\\repository\\IMessageRepository.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\IMessageRepository.cs",
+              "RelativeToolTip": "Upkart1\\repository\\IMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:17:57.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectFile.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Entities\\ProjectFile.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Entities\\ProjectFile.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Entities\\ProjectFile.cs",
+              "RelativeToolTip": "Upkart1\\Entities\\ProjectFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:57:46.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Configuration\\WebConfig.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Configuration\\WebConfig.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Configuration\\WebConfig.cs",
+              "RelativeToolTip": "Upkart1\\Configuration\\WebConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:35:32.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\appsettings.json",
+              "RelativeDocumentMoniker": "Upkart1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\appsettings.json",
+              "RelativeToolTip": "Upkart1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-21T07:42:58.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebSocketConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Configuration\\WebSocketConfig.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Configuration\\WebSocketConfig.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Configuration\\WebSocketConfig.cs",
+              "RelativeToolTip": "Upkart1\\Configuration\\WebSocketConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:35:33.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Upkart1\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:25:54.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Controllers\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\ChatHub.cs",
+              "RelativeToolTip": "Upkart1\\Controllers\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:35:40.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "S3KeyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Helpers\\S3KeyHelper.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Helpers\\S3KeyHelper.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Helpers\\S3KeyHelper.cs",
+              "RelativeToolTip": "Upkart1\\Helpers\\S3KeyHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:26:16.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Upkart1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:48:41.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Upkart1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:35:34.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Upkart1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Upkart1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-21T07:35:09.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Upkart1\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:35:41.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "Upkart1\\repository\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\ReviewRepository.cs",
+              "RelativeToolTip": "Upkart1\\repository\\ReviewRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:18:36.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProjectFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\ProjectFileRepository.cs",
+              "RelativeDocumentMoniker": "Upkart1\\repository\\ProjectFileRepository.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\ProjectFileRepository.cs",
+              "RelativeToolTip": "Upkart1\\repository\\ProjectFileRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:18:31.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MilestonePaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\MilestonePaymentRepository.cs",
+              "RelativeDocumentMoniker": "Upkart1\\repository\\MilestonePaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\MilestonePaymentRepository.cs",
+              "RelativeToolTip": "Upkart1\\repository\\MilestonePaymentRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:18:08.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IWalletTransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\IWalletTransactionRepository.cs",
+              "RelativeDocumentMoniker": "Upkart1\\repository\\IWalletTransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\IWalletTransactionRepository.cs",
+              "RelativeToolTip": "Upkart1\\repository\\IWalletTransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:18:06.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Upkart1\\repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\IUserRepository.cs",
+              "RelativeToolTip": "Upkart1\\repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:18:03.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProjectFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\IProjectFileRepository.cs",
+              "RelativeDocumentMoniker": "Upkart1\\repository\\IProjectFileRepository.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\IProjectFileRepository.cs",
+              "RelativeToolTip": "Upkart1\\repository\\IProjectFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:18:00.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IMilestonePaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\IMilestonePaymentRepository.cs",
+              "RelativeDocumentMoniker": "Upkart1\\repository\\IMilestonePaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\repository\\IMilestonePaymentRepository.cs",
+              "RelativeToolTip": "Upkart1\\repository\\IMilestonePaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:17:51.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "KycService.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Services\\KycService.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Services\\KycService.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Services\\KycService.cs",
+              "RelativeToolTip": "Upkart1\\Services\\KycService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:17:06.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Upkart1\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:35:43.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Upkart1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\appsettings.Development.json",
+              "RelativeToolTip": "Upkart1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-21T07:42:56.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Upkart1\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:38:46.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\DTO\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Upkart1\\DTO\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\DTO\\ApiResponse.cs",
+              "RelativeToolTip": "Upkart1\\DTO\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:38:17.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdminUserResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\DTO\\AdminUserResponseDTO.cs",
+              "RelativeDocumentMoniker": "Upkart1\\DTO\\AdminUserResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\DTO\\AdminUserResponseDTO.cs",
+              "RelativeToolTip": "Upkart1\\DTO\\AdminUserResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:38:15.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdminStatsResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\DTO\\AdminStatsResponseDTO.cs",
+              "RelativeDocumentMoniker": "Upkart1\\DTO\\AdminStatsResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\DTO\\AdminStatsResponseDTO.cs",
+              "RelativeToolTip": "Upkart1\\DTO\\AdminStatsResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:38:08.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SecurityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Configuration\\SecurityConfig.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Configuration\\SecurityConfig.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Configuration\\SecurityConfig.cs",
+              "RelativeToolTip": "Upkart1\\Configuration\\SecurityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:35:30.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AwsConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Configuration\\AwsConfig.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Configuration\\AwsConfig.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Configuration\\AwsConfig.cs",
+              "RelativeToolTip": "Upkart1\\Configuration\\AwsConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:35:25.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MethodSecurityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Configuration\\MethodSecurityConfig.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Configuration\\MethodSecurityConfig.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Configuration\\MethodSecurityConfig.cs",
+              "RelativeToolTip": "Upkart1\\Configuration\\MethodSecurityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:35:29.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EmailConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Configuration\\EmailConfig.cs",
+              "RelativeDocumentMoniker": "Upkart1\\Configuration\\EmailConfig.cs",
+              "ToolTip": "C:\\Users\\Teckn\\OneDrive\\Desktop\\Final\\Upkart1\\Upkart1\\Configuration\\EmailConfig.cs",
+              "RelativeToolTip": "Upkart1\\Configuration\\EmailConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:35:28.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
